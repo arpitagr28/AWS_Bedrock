@@ -1,0 +1,16 @@
+bs4
+flask
+time
+streamlit_chat
+pypdf
+langchain
+langchain_community
+uuid
+boto3
+streamlit
+langchain_aws
+faiss-cpu
+
+
+
+
